@@ -51,7 +51,7 @@ The script requires the following environment variables in your `.env` file:
 
 Run the script:
 ```bash
-python script_name.py
+python wp_msg_automation.py
 ```
 
 The script will prompt you for the following information:
